@@ -1,7 +1,7 @@
 ![](http://img.hb.aicdn.com/8f3bbb19ccb5faa77fd2f6b858cf4aeebf499cd326aee-adTXcW_fw658)
 
 # 欢迎使用hosts！
-[![](http://www.haotu.net/up/2949/24/4-weibo.png)](http://weibo.com/1439237264)
+[![](http://img.t.sinajs.cn/t6/style/images/global_nav/WB_logo.png?id=1404211047727)](http://weibo.com/1439237264)
 
 我们的目的只是为了还你一个没有那么多垃圾的网络旅行！不再占用宽带加载广告来打扰你的旅行。
 
