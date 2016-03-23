@@ -1,0 +1,28 @@
+# Modified hosts start
+
+# 百度
+0.0.0.0	cpro.baidu.com
+0.0.0.0	eiv.baidu.com
+0.0.0.0	znsv.baidu.com
+0.0.0.0	hm.baidu.com
+0.0.0.0	crs.baidu.com
+0.0.0.0	click.bes.baidu.com
+0.0.0.0	cpro.baidustatic.com
+
+# 京东
+0.0.0.0	ccc.x.jd.com
+0.0.0.0	static.360buyimg.com
+
+# 淘宝
+0.0.0.0	a.alimama.cn
+0.0.0.0	strip.taobaocdn.com
+0.0.0.0	pro.taobao.com
+0.0.0.0	p.tanx.com
+
+# 猜你喜欢
+0.0.0.0	widget.wumii.cn
+
+# Unknow
+0.0.0.0	ads.adinall.com
+
+# Modified hosts end
