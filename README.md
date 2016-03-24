@@ -1,7 +1,7 @@
 ![](http://img.hb.aicdn.com/8f3bbb19ccb5faa77fd2f6b858cf4aeebf499cd326aee-adTXcW_fw658)
 
 # 欢迎使用hosts！
-[![](http://img.t.sinajs.cn/t6/style/images/global_nav/WB_logo.png?id=1404211047727)](http://weibo.com/1439237264)
+[![](http://img.t.sinajs.cn/t6/style/images/global_nav/WB_logo.png?id=1404211047727)](http://weibo.com/1439237264) [![给我写信](http://mimg.127.net/xm/all/share/120111/img/mailme_5_big.png)](http://mail.163.com/share/mail2me.htm#email=121097103097115064049054051046099111109)
 
 我们的目的只是为了还你一个没有那么多垃圾的网络旅行！不再占用宽带加载广告来打扰你的旅行。
 
@@ -15,6 +15,6 @@
 - Windows下在命令行执行 ipconfig /flushdns
 
 ## License
-* 本项目的所有代码按照 [MIT License](https://github.com/racaljk/hosts/blob/master/LICENSE) 发布。
+* 本项目的所有代码按照 [MIT License](https://github.com/yagas/hosts/blob/master/LICENSE) 发布。
 * 本项目的hosts，README.MD，wiki等资源基于[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 这意味着你可以拷贝、并再发行本项目的内容，但是你将必须同样提供原作者信息以及协议声明。同时你也不能将本项目用于商业用途，按照我们狭义的理解（增加附属条款），凡是任何盈利的活动皆属于商业用途。若你无法遵守上述的责任和义务，请不要拷贝、并再发行本项目。

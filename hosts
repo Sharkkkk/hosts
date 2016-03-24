@@ -11,7 +11,7 @@
 
 # 京东
 0.0.0.0	ccc.x.jd.com
-0.0.0.0	static.360buyimg.com
+# 0.0.0.0	static.360buyimg.com
 
 # 淘宝
 0.0.0.0	a.alimama.cn
@@ -21,6 +21,10 @@
 
 # 猜你喜欢
 0.0.0.0	widget.wumii.cn
+
+# 360
+0.0.0.0 s.lianmeng.360.cn
+0.0.0.0 api.so.lianmeng.360.cn
 
 # Unknow
 0.0.0.0	ads.adinall.com
