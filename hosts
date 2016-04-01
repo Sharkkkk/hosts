@@ -1,6 +1,7 @@
 # Modified hosts start
 
 # 百度
+0.0.0.0 pos.baidu.com
 0.0.0.0	cpro.baidu.com
 0.0.0.0	eiv.baidu.com
 0.0.0.0	znsv.baidu.com
