@@ -37,4 +37,7 @@
 # 万流客供应方平台
 0.0.0.0	cdn.vamaker.com
 
+# doubleclick
+0.0.0.0 googleads.g.doubleclick.net
+
 # Modified hosts end
