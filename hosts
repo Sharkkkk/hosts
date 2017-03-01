@@ -33,6 +33,7 @@
 
 # MediaV聚胜万合
 0.0.0.0	static-ssl.mediav.com
+0.0.0.0 static.mediav.com
 
 # 万流客供应方平台
 0.0.0.0	cdn.vamaker.com
